@@ -9,3 +9,5 @@ stash changes.
 conflict local
 
 remote conflict changes
+
+conflict2 remote
