@@ -5,3 +5,7 @@ abc
 
 
 stash changes.
+
+conflict local
+
+
