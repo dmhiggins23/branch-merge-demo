@@ -5,3 +5,5 @@ abc
 
 
 stash changes.
+
+remote conflict changes
